@@ -17,3 +17,4 @@ if (int(age) < 8):
 if (int(age) >= 8):
     print("Ah... A well traveled soul are ye!")
     print("hello again")
+    print("something new")
