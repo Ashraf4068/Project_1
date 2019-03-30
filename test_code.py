@@ -18,8 +18,5 @@ if (int(age) >= 8):
     print("Ah... A well traveled soul are ye!")
     print("hello again")
     print("something new")
-<<<<<<< HEAD
     print("i am doing something cool")
-=======
     print("made changes on Karen's Branch")
->>>>>>> 3be9858535b1804744b235e929a4642ea94f1fee
